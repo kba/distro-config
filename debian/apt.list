@@ -1,2 +1,5 @@
-hsetroot
 curl
+hsetroot
+perltidy
+perlcritic
+direnv
